@@ -1,0 +1,31 @@
+/*// function that add items in the stock;
+let stock = [];
+
+const item1 = {
+    id :23456,
+    name: "apple juice",
+    quantity: 13,
+    price: 900,
+};
+
+const item2 ={
+    id : 14567,
+    name : "mango juice",
+    quantity :17,
+    price : 800
+}
+const item3 = {
+    id : 45673,
+    name :"strawberry juice",
+    quantity : 19,
+    price : 850
+}
+stockManager.addItemToStock(item3);
+stock.push(addItemToStock);
+  console.log(`Item added to stock: ${item3.name}`)
+
+  console.log("\n1. ADDING ------------------------------------------------------ ")
+  console.log('\nItem added!\n');
+  console.log(stock);
+    
+*/
