@@ -1,0 +1,8 @@
+const addItemToStock = (name, quantity, price) => {
+    const newItem = {
+        id: generateUniqueId(),
+        name,
+        quantity,
+        price,
+      };
+    }

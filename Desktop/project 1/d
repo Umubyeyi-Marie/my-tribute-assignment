@@ -1,5 +1,5 @@
-/*// function that add items in the stock;
-let stock = [];
+// function that add items in the stock;
+
 
 const item1 = {
     id :23456,
@@ -21,11 +21,12 @@ const item3 = {
     price : 850
 }
 stockManager.addItemToStock(item3);
-stock.push(addItemToStock);
-  console.log(`Item added to stock: ${item3.name}`)
+stockManager.addItemToStock(item2);
+stockManager.addItemToStock(item1);
+
+
 
   console.log("\n1. ADDING ------------------------------------------------------ ")
   console.log('\nItem added!\n');
   console.log(stock);
     
-*/

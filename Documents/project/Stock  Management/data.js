@@ -55,7 +55,7 @@ class StockManagement {
     
 
 
-// Sample usage
+// let use this example
 
 const stockManager = new StockManagement();
 
@@ -95,5 +95,5 @@ stockManager.listItemsInStock();
 //listing available item in stock
 stockManager.listAvailableItems();
 //finding item in the stock
-const itemIdToFind = item3.id;
+const itemIdToFind = item.id;
 stockManager.findItemById(itemIdToFind);
